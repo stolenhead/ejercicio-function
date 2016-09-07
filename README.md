@@ -20,7 +20,9 @@ console.log(suma12(76)) // Debería mostrar 88 de resultado.
  var num2 = 0;
 
 function suma(num1) {
+
 	return function(**num2**) {
+	
 		return num1 + num2;
 	}
 } 
